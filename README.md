@@ -11,3 +11,5 @@ Just like [gobyexample](https://gobyexample.com/), learn ruby by examples.
 * [arrays](https://github.com/xwjdsh/ruby-examples/blob/main/arrays/arrays.rb)
 * [hash](https://github.com/xwjdsh/ruby-examples/blob/main/hash/hash.rb)
 * [methods](https://github.com/xwjdsh/ruby-examples/blob/main/methods/methods.rb)
+* [class_object](https://github.com/xwjdsh/ruby-examples/blob/main/class_object/class_object.rb)
+* [oop](https://github.com/xwjdsh/ruby-examples/blob/main/oop/oop.rb)
